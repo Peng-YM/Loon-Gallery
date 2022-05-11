@@ -1,16 +1,20 @@
 {
   "blackmatrix7-ios_rule_script-master": [
     {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin",
+      "name": "AdvertisingLite.plugin"
+    },
+    {
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin",
       "name": "Redirect.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin",
-      "name": "AdvertisingScript.plugin"
-    },
-    {
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin",
       "name": "AllInOne.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin",
+      "name": "AdvertisingScript.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin",
@@ -23,35 +27,78 @@
     {
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin",
       "name": "Advertising.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin",
-      "name": "AdvertisingLite.plugin"
     }
   ],
-  "chavyleung-scripts-master": [
+  "NobyDa-Script-master": [],
+  "Tartarus2014-For-own-use-master": [
     {
-      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin",
-      "name": "BoxJs",
-      "description": "Data manager",
-      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
-      "open_url": "http://boxjs.com",
-      "homepage": "https://chavyleung.gitbook.io/boxjs/"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Profile.plugin",
+      "name": "Profile",
+      "description": "自用，集成了一些Host Script"
     },
     {
-      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
-      "name": "BoxJs",
-      "description": "Data manager",
-      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
-      "open_url": "http://boxjs.com",
-      "homepage": "https://chavyleung.gitbook.io/boxjs/"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/TikTokJP.plugin",
+      "name": "TikTokJP.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/WeiBo.plugin",
+      "name": "Weibo",
+      "description": "Weibo app removes ad."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/BilibiliAds.plugin",
+      "name": "Bilibili 去广告"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/ZhiHu.plugin",
+      "name": "知乎去广告",
+      "description": "项目Github链接：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/SMZDM.plugin",
+      "name": "SMZDM",
+      "description": "什么值得买去广告"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Emby%2BShu.plugin",
+      "name": "Emby+Shu.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/MitM%20All%20Hostnames.plugin",
+      "name": "MitM All Hostnames.plugin"
+    }
+  ],
+  "DualSubs-DualSubs-main": [
+    {
+      "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/plugins/DualSubs.YouTube.plugin",
+      "name": "🍿️ DualSubs for YouTube",
+      "description": "(0.3.x) YouTube字幕增强及双语模块"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/plugins/DualSubs.plugin",
+      "name": "🍿️ DualSubs for Streaming Media Platform",
+      "description": "(0.6.x) 流媒体平台字幕增强及双语模块"
     }
   ],
   "VirgilClyne-iRingo-main": [
     {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.beta.plugin",
+      "name": " iRingo for Apple Weather",
+      "description": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
+      "open_url": "http://boxjs.com/#/app/iRingo.Weather",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo#天气"
+    },
+    {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Apple_Maps.plugin",
       "name": " Redirect Apple Maps to 🇺🇸US",
       "description": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Apple_News.plugin",
+      "name": " Unlock Apple News 🇺🇸US",
+      "description": "解锁🇺🇸US地区的News，注：使用过程中gateway.icloud.com会走与News相同的代理线路。"
     },
     {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Location.plugin",
@@ -63,20 +110,6 @@
       "manual": "https://github.com/VirgilClyne/iRingo#定位服务"
     },
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.beta.plugin",
-      "name": " iRingo for Apple Weather",
-      "description": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
-      "open_url": "http://boxjs.com/#/app/iRingo.Weather",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo#天气"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Apple_News.plugin",
-      "name": " Unlock Apple News 🇺🇸US",
-      "description": "解锁🇺🇸US地区的News，注：使用过程中gateway.icloud.com会走与News相同的代理线路。"
-    },
-    {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Siri.plugin",
       "name": " iRingo for Siri & Search",
       "description": "(V2) 全面自定义「Siri与搜索」的功能。",
@@ -84,11 +117,6 @@
       "open_url": "http://boxjs.com/#/app/iRingo.Siri",
       "homepage": "https://github.com/VirgilClyne",
       "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Apple_TV.plugin",
-      "name": " Enable Apple TV app",
-      "description": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)"
     },
     {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.plugin",
@@ -100,27 +128,14 @@
       "manual": "https://github.com/VirgilClyne/iRingo#天气"
     },
     {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Apple_TV.plugin",
+      "name": " Enable Apple TV app",
+      "description": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)"
+    },
+    {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Apple_Maps_CN.plugin",
       "name": " Redirect Apple Maps to 🇨🇳CN",
       "description": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions.plugin",
-      "name": " Enable Siri Suggestions",
-      "description": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Geo_Services_US.plugin",
-      "name": " Redirect Geo Services to 🇺🇸US",
-      "description": "(V1) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
-      "icon": "https://images.macrumors.com/article-new/2019/07/ios_location_services-250x250.jpg",
-      "open_url": "http://boxjs.com/#/app/iRingo.Location",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo#定位服务"
     },
     {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Geo_Services_CN.plugin",
@@ -132,13 +147,13 @@
       "manual": "https://github.com/VirgilClyne/iRingo#定位服务"
     },
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions_JP.plugin",
-      "name": " Enable Siri Suggestions 🇯🇵JP",
-      "description": "(V1) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Apple_Weather.plugin",
+      "name": " iRingo for Apple Weather AQI data with waqi.info",
+      "description": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
+      "open_url": "http://boxjs.com/#/app/iRingo.Weather",
       "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
+      "manual": "https://github.com/VirgilClyne/iRingo#天气"
     },
     {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Geo_Services_JP.plugin",
@@ -159,9 +174,45 @@
       "manual": "https://github.com/VirgilClyne/iRingo#定位服务"
     },
     {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Geo_Services_US.plugin",
+      "name": " Redirect Geo Services to 🇺🇸US",
+      "description": "(V1) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
+      "icon": "https://images.macrumors.com/article-new/2019/07/ios_location_services-250x250.jpg",
+      "open_url": "http://boxjs.com/#/app/iRingo.Location",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo#定位服务"
+    },
+    {
       "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions_US.plugin",
       "name": " Enable Siri Suggestions 🇺🇸US",
       "description": "(V1) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions_TW.plugin",
+      "name": " Enable Siri Suggestions 🇹🇼TW",
+      "description": "(V1) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions_JP.plugin",
+      "name": " Enable Siri Suggestions 🇯🇵JP",
+      "description": "(V1) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions.plugin",
+      "name": " Enable Siri Suggestions",
+      "description": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
       "open_url": "http://boxjs.com/#/app/iRingo.Siri",
       "homepage": "https://github.com/VirgilClyne",
@@ -175,70 +226,32 @@
       "open_url": "http://boxjs.com/#/app/iRingo.Location",
       "homepage": "https://github.com/VirgilClyne",
       "manual": "https://github.com/VirgilClyne/iRingo#定位服务"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Siri_Suggestions_TW.plugin",
-      "name": " Enable Siri Suggestions 🇹🇼TW",
-      "description": "(V1) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo#siri与搜索"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/archive/Apple_Weather.plugin",
-      "name": " iRingo for Apple Weather AQI data with waqi.info",
-      "description": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)",
-      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
-      "open_url": "http://boxjs.com/#/app/iRingo.Weather",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo#天气"
     }
   ],
-  "Tartarus2014-For-own-use-master": [
+  "chavyleung-scripts-master": [
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Profile.plugin",
-      "name": "Profile",
-      "description": "自用，集成了一些Host Script"
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin",
+      "name": "BoxJs",
+      "description": "Data manager",
+      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
+      "open_url": "http://boxjs.com",
+      "homepage": "https://chavyleung.gitbook.io/boxjs/"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Emby%2BShu.plugin",
-      "name": "Emby+Shu.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/BilibiliAds.plugin",
-      "name": "Bilibili 去广告"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/SMZDM.plugin",
-      "name": "SMZDM",
-      "description": "什么值得买去广告"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/TikTokJP.plugin",
-      "name": "TikTokJP.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/MitM%20All%20Hostnames.plugin",
-      "name": "MitM All Hostnames.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/WeiBo.plugin",
-      "name": "Weibo",
-      "description": "Weibo app removes ad."
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/ZhiHu.plugin",
-      "name": "知乎去广告",
-      "description": "项目Github链接：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu"
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
+      "name": "BoxJs",
+      "description": "Data manager",
+      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
+      "open_url": "http://boxjs.com",
+      "homepage": "https://chavyleung.gitbook.io/boxjs/"
     }
   ],
   "Peng-YM-QuanX-master": [
     {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin",
-      "name": "Persistent Policy",
-      "description": "记忆当前网络下策略组选中状态，切换网络时自动恢复",
-      "icon": "https://avatars.githubusercontent.com/u/21050064?v=4"
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin",
+      "name": "自动策略",
+      "description": "根据当前网络自动切换模式",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
     },
     {
       "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/GitHubAccelerate/loon.plugin",
@@ -247,14 +260,20 @@
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin",
-      "name": "自动策略",
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin",
+      "name": "github-private-repo.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.plugin",
+      "name": "运行模式",
       "description": "根据当前网络自动切换模式",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin",
-      "name": "github-private-repo.plugin"
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin",
+      "name": "Persistent Policy",
+      "description": "记忆当前网络下策略组选中状态，切换网络时自动恢复",
+      "icon": "https://avatars.githubusercontent.com/u/21050064?v=4"
     }
   ],
   "Peng-YM-Sub-Store-master": [
