@@ -1,27 +1,30 @@
 <template>
   <v-container fluid>
     <v-expansion-panels>
-      <v-expansion-panel v-for="(repo, repoId) in repos" :key="repoId">
+      <v-expansion-panel
+          v-for="repoId in Object.keys(repos).sort((a, b) => repos[a].user.localeCompare(repos[b].user))"
+          :key="repoId">
         <v-expansion-panel-header>
           <v-row align="center" justify="start" no-gutters>
             <v-col>
               <v-avatar
-                  size="40px"
+                  size="25px"
                   class="elevation-3"
               >
                 <img
                     alt="Avatar"
-                    :src="repo.avatar_url"
+                    :src="repos[repoId].avatar_url"
                 >
               </v-avatar>
             </v-col>
             <v-col>
               <v-btn
-                  :href="repo.repo_url"
+                  :href="repos[repoId].repo_url"
                   target="_blank"
+                  x-small
                   text
               >
-                <span>{{repo.user}}/{{repo.repo}}</span>
+                <span>{{limitString(repos[repoId].user + "/" + repos[repoId].repo, 20)}}</span>
               </v-btn>
             </v-col>
             <v-spacer/>
@@ -29,8 +32,10 @@
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-list dense nav class="ma-n4">
-            <v-list-item three-line v-for="(plugin, idx) in plugins[repoId]" :key="idx">
-              <v-list-item-avatar class="elevation-3">
+            <v-list-item three-line
+                         v-for="(plugin, idx) in plugins[repoId]"
+                         :key="idx">
+              <v-list-item-avatar class="elevation-3" size="35px">
                 <v-icon v-if="plugin.icon === undefined">fa-question</v-icon>
                 <v-img :src="plugin.icon" v-else/>
               </v-list-item-avatar>
@@ -92,6 +97,10 @@ export default {
   methods: {
     install(url) {
       window.location.href = `loon://import?plugin=${encodeURIComponent(url)}`;
+    },
+
+    limitString(str, sz) {
+      return str.slice(0, sz) + (str.length > sz ? "..." : "");
     }
   }
 }

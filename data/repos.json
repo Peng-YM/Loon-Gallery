@@ -1,40 +1,4 @@
 {
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-05-11T06:01:03Z",
-    "stargazers_count": 877,
-    "forks_count": 147
-  },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-05-11T07:16:41Z",
-    "stargazers_count": 3649,
-    "forks_count": 202
-  },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-05-11T08:54:47Z",
-    "stargazers_count": 3514,
-    "forks_count": 1093
-  },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
     "repo": "ios_rule_script",
@@ -47,17 +11,17 @@
     "stargazers_count": 4596,
     "forks_count": 907
   },
-  "Tartarus2014-For-own-use-master": {
-    "user": "Tartarus2014",
-    "repo": "For-own-use",
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "自用",
-    "repo_url": "https://github.com/Tartarus2014/For-own-use",
-    "updated_at": "2022-05-11T07:31:53Z",
-    "stargazers_count": 369,
-    "forks_count": 156
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-05-11T06:01:03Z",
+    "stargazers_count": 877,
+    "forks_count": 147
   },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
@@ -70,5 +34,41 @@
     "updated_at": "2022-05-11T08:31:32Z",
     "stargazers_count": 887,
     "forks_count": 110
+  },
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-05-11T09:26:24Z",
+    "stargazers_count": 3650,
+    "forks_count": 202
+  },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-05-11T09:03:44Z",
+    "stargazers_count": 3515,
+    "forks_count": 1093
+  },
+  "Tartarus2014-For-own-use-master": {
+    "user": "Tartarus2014",
+    "repo": "For-own-use",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "自用",
+    "repo_url": "https://github.com/Tartarus2014/For-own-use",
+    "updated_at": "2022-05-11T07:31:53Z",
+    "stargazers_count": 369,
+    "forks_count": 156
   }
 }

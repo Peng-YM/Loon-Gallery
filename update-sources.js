@@ -137,7 +137,7 @@ async function fetchPluginMeta(pluginURL) {
         }).then(resp => resp.body);
 
         // some plugins do not have a name, use the file name instead
-        const filename = /[^/]*$/.exec(pluginURL)[0];
+        const filename = decodeURIComponent(/[^/]*$/.exec(pluginURL)[0]);
 
         const metadata = {};
         data.split("\n")
