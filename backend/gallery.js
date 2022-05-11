@@ -26,22 +26,44 @@ service();
 function service() {
     const $app = express();
 
-    $app.route("/gallery/plugins")
+    $app.route("/api/gallery/official")
+        .get(getOfficialPlugins);
+
+    $app.route("/api/gallery/plugins")
         .get(getAllPlugins);
 
-    $app.route("/gallery/sources")
+    $app.route("/api/gallery/sources")
         .get(getAllSources)
         .post(addSourceRepo)
         .delete(deleteSourceRepo);
 
-    $app.route("/gallery/sources/refresh/:id")
+    $app.route("/api/gallery/sources/refresh/:id")
         .get(refreshSourceRepo);
 
-    $app.all("/", () => {
-        res.send("Hello from Loon Gallery, made with ❤️ by Peng-YM");
+    $app.all("/", (req, res) => {
+        res.set("location", "https://loon-gallery.vercel.app/").status(302).end();
     });
 
     $app.start();
+
+    async function getOfficialPlugins(req, res) { 
+        try {
+            const PLUGINS_DATA_URL = "https://github.com/Peng-YM/Loon-Gallery/blob/master/data/plugins.json?raw=true";
+            const officialPlugins = await $.http.get(PLUGINS_DATA_URL)
+                .then(resp => JSON.parse(resp.body));
+
+            const SOURCES_DATA_URL = "https://github.com/Peng-YM/Loon-Gallery/blob/master/data/repos.json?raw=true";
+            const officialSources = await $.http.get(SOURCES_DATA_URL)
+                .then(resp => JSON.parse(resp.body));
+
+            res.json({
+                plugins: officialPlugins,
+                repos: officialSources,
+            });
+        } catch (err) {
+            res.status(500).json({ error: `无法获取插件列表, 原因：${err}`});
+        }
+    }
 
     function getAllPlugins(req, res) {
         const allPlugins = $.read(PLUGIN_KEY);
@@ -79,8 +101,7 @@ function service() {
         const sources = $.read(PLUGIN_SOURCE_REPO_KEY) || {};
         const allPlugins = $.read(PLUGIN_KEY);
 
-        // const id = `${user}-${repo}-${branch}`;
-        const id = uuidv4();
+        const id = `${user}-${repo}-${branch}`;
         if (sources[id]) {
             res.status(500).json({ error: "插件仓库已经存在！" });
         }
@@ -848,22 +869,4 @@ function express({ port } = { port: 3000 }) {
             return params;
         }
     }
-}
-
-/**
- * UUID
- */
-function uuidv4() {
-    // http://www.ietf.org/rfc/rfc4122.txt
-    var s = [];
-    var hexDigits = "0123456789abcdef";
-    for (var i = 0; i < 36; i++) {
-        s[i] = hexDigits.substr(Math.floor(Math.random() * 0x10), 1);
-    }
-    s[14] = "4";  // bits 12-15 of the time_hi_and_version field to 0010
-    s[19] = hexDigits.substr((s[19] & 0x3) | 0x8, 1);  // bits 6-7 of the clock_seq_hi_and_reserved to 01
-    s[8] = s[13] = s[18] = s[23] = "-";
-
-    var uuid = s.join("");
-    return uuid;
 }

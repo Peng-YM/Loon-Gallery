@@ -1,0 +1,33 @@
+[
+    {
+        "user": "chavyleung",
+        "repo": "scripts",
+        "branch": "master"
+    },
+    {
+        "user": "Peng-YM",
+        "repo": "Sub-Store",
+        "branch": "master"
+    },
+    {
+        "user": "Peng-YM",
+        "repo": "QuanX",
+        "branch": "master"
+    },
+    {
+        "user": "VirgilClyne",
+        "repo": "iRingo",
+        "branch": "main"
+    },
+    {
+        "user": "blackmatrix7",
+        "repo": "ios_rule_script",
+        "branch": "master",
+        "paths": ["rewrite/Loon"]
+    },
+    {
+        "user": "Tartarus2014",
+        "repo": "For-own-use",
+        "branch": "master"
+    }
+]

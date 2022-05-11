@@ -1,0 +1,13 @@
+#!name=Loon Gallery
+#!desc=Loon 插件仓库
+#!openUrl=https://🎈.com
+#!author=Peng-YM
+#!homepage=https://github.com/Peng-YM/Loon-Gallery
+#!icon=https://avatars.githubusercontent.com/u/38467044?v=4
+
+[MITM]
+hostname=xn--ck8h.com
+
+[Script]
+
+http-request https?:\/\/xn--ck8h\.com script-path=https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/backend/gallery.js, requires-body=true, timeout=120, tag=Loon-Gallery
