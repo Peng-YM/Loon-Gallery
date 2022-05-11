@@ -7,9 +7,21 @@
     "owner_url": "https://github.com/blackmatrix7",
     "repo_description": "各平台的分流规则、复写规则及自动化脚本。",
     "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-05-11T08:06:59Z",
-    "stargazers_count": 4596,
+    "updated_at": "2022-05-11T10:39:50Z",
+    "stargazers_count": 4597,
     "forks_count": 907
+  },
+  "Peng-YM-Sub-Store-master": {
+    "user": "Peng-YM",
+    "repo": "Sub-Store",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and Clash!",
+    "repo_url": "https://github.com/Peng-YM/Sub-Store",
+    "updated_at": "2022-05-11T11:36:34Z",
+    "stargazers_count": 888,
+    "forks_count": 110
   },
   "Peng-YM-QuanX-master": {
     "user": "Peng-YM",
@@ -23,18 +35,6 @@
     "stargazers_count": 877,
     "forks_count": 147
   },
-  "Peng-YM-Sub-Store-master": {
-    "user": "Peng-YM",
-    "repo": "Sub-Store",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and Clash!",
-    "repo_url": "https://github.com/Peng-YM/Sub-Store",
-    "updated_at": "2022-05-11T08:31:32Z",
-    "stargazers_count": 887,
-    "forks_count": 110
-  },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
     "repo": "iRingo",
@@ -43,8 +43,8 @@
     "owner_url": "https://github.com/VirgilClyne",
     "repo_description": "解锁完整的 Apple功能和集成服务",
     "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-05-11T09:26:24Z",
-    "stargazers_count": 3650,
+    "updated_at": "2022-05-11T10:50:38Z",
+    "stargazers_count": 3653,
     "forks_count": 202
   },
   "chavyleung-scripts-master": {

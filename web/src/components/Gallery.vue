@@ -8,7 +8,7 @@
           <v-row align="center" justify="start" no-gutters>
             <v-col>
               <v-avatar
-                  size="25px"
+                  size="35px"
                   class="elevation-3"
               >
                 <img
@@ -21,7 +21,7 @@
               <v-btn
                   :href="repos[repoId].repo_url"
                   target="_blank"
-                  x-small
+                  small
                   text
               >
                 <span>{{limitString(repos[repoId].user + "/" + repos[repoId].repo, 20)}}</span>
@@ -35,7 +35,7 @@
             <v-list-item three-line
                          v-for="(plugin, idx) in plugins[repoId]"
                          :key="idx">
-              <v-list-item-avatar class="elevation-3" size="35px">
+              <v-list-item-avatar class="elevation-3" size="35px" @click="open(plugin.url)">
                 <v-icon v-if="plugin.icon === undefined">fa-question</v-icon>
                 <v-img :src="plugin.icon" v-else/>
               </v-list-item-avatar>
@@ -97,6 +97,10 @@ export default {
   methods: {
     install(url) {
       window.location.href = `loon://import?plugin=${encodeURIComponent(url)}`;
+    },
+
+    open(url) {
+      window.location.href = url;
     },
 
     limitString(str, sz) {
