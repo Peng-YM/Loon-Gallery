@@ -39,5 +39,10 @@
         "user": "NobyDa",
         "repo": "Script",
         "branch": "master"
+    },
+    {
+        "user": "app2smile",
+        "repo": "rules",
+        "branch": "master"
     }
 ]
