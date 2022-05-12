@@ -35,7 +35,7 @@
         "user": "DualSubs",
         "repo": "DualSubs",
         "branch": "main",
-        "path": ["plugin"]
+        "paths": ["plugin"]
     },
     {
         "user": "NobyDa",
