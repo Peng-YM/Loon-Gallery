@@ -17,6 +17,7 @@
     {
         "user": "VirgilClyne",
         "repo": "iRingo",
+        "branch": "main",
         "paths": ["plugin"]
     },
     {
@@ -33,6 +34,7 @@
     {
         "user": "DualSubs",
         "repo": "DualSubs",
+        "branch": "main",
         "path": ["plugin"]
     },
     {
