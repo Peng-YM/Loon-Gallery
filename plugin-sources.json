@@ -17,7 +17,7 @@
     {
         "user": "VirgilClyne",
         "repo": "iRingo",
-        "path": ["plugin"]
+        "paths": ["plugin"]
     },
     {
         "user": "blackmatrix7",
