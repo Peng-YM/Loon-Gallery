@@ -1,15 +1,15 @@
 {
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
+  "Peng-YM-Sub-Store-master": {
+    "user": "Peng-YM",
+    "repo": "Sub-Store",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-05-13T08:00:39Z",
-    "stargazers_count": 768,
-    "forks_count": 227
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and Clash!",
+    "repo_url": "https://github.com/Peng-YM/Sub-Store",
+    "updated_at": "2022-05-13T00:28:29Z",
+    "stargazers_count": 892,
+    "forks_count": 111
   },
   "chavyleung-scripts-master": {
     "user": "chavyleung",
@@ -23,6 +23,18 @@
     "stargazers_count": 3517,
     "forks_count": 1093
   },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-05-13T13:10:21Z",
+    "stargazers_count": 814,
+    "forks_count": 59
+  },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
     "repo": "iRingo",
@@ -31,8 +43,8 @@
     "owner_url": "https://github.com/VirgilClyne",
     "repo_description": "解锁完整的 Apple功能和集成服务",
     "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-05-13T12:11:42Z",
-    "stargazers_count": 3688,
+    "updated_at": "2022-05-13T13:00:58Z",
+    "stargazers_count": 3689,
     "forks_count": 206
   },
   "Peng-YM-QuanX-master": {
@@ -59,29 +71,17 @@
     "stargazers_count": 4632,
     "forks_count": 914
   },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-05-13T10:31:35Z",
-    "stargazers_count": 5682,
-    "forks_count": 3171
-  },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-05-13T00:14:57Z",
-    "stargazers_count": 813,
-    "forks_count": 59
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-05-13T08:00:39Z",
+    "stargazers_count": 768,
+    "forks_count": 227
   },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
@@ -95,17 +95,17 @@
     "stargazers_count": 371,
     "forks_count": 49
   },
-  "Peng-YM-Sub-Store-master": {
-    "user": "Peng-YM",
-    "repo": "Sub-Store",
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and Clash!",
-    "repo_url": "https://github.com/Peng-YM/Sub-Store",
-    "updated_at": "2022-05-13T00:28:29Z",
-    "stargazers_count": 892,
-    "forks_count": 111
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-05-13T12:35:55Z",
+    "stargazers_count": 5683,
+    "forks_count": 3171
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
