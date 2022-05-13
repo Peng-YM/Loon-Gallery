@@ -1,0 +1,33 @@
+name: update
+on: 
+  schedule:
+    - cron: "*/10 * * * *"
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: 'master'
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "14"
+      - name: Install dependencies
+        run: npm install request
+      - name: Update source
+        run: node update-sources.js
+      - name: Commit changes
+        run: |
+          git config user.email github-actions
+          git config user.name github-actions@github.com
+          git add .
+          git commit -m "Plugin update" -a
+          git push
