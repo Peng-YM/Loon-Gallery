@@ -21,6 +21,12 @@
         "paths": ["plugin"]
     },
     {
+        "user": "VirgilClyne",
+        "repo": "VirgilClyne",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
         "user": "blackmatrix7",
         "repo": "ios_rule_script",
         "branch": "master",
