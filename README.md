@@ -1,5 +1,7 @@
 # Loon Gallery
 
+[![Build](https://github.com/Peng-YM/Loon-Gallery/actions/workflows/main.yml/badge.svg)](https://github.com/Peng-YM/Loon-Gallery/actions/workflows/main.yml)
+
 Loon 插件仓库，提供一键式安装 Loon 插件。
 
 <p align="center">
