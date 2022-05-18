@@ -5,9 +5,13 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'plugin-sources.json'
   pull_request:
     branches:
       - master
+    paths:
+      - 'plugin-sources.json'
 jobs:
   build:
     runs-on: ubuntu-latest
