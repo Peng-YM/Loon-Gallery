@@ -90,7 +90,7 @@ async function fetchPlugins(user, repo, branch, paths = [""]) {
         try {
             // see https://docs.github.com/cn/rest/repos/contents#get-contents
             const data = await $http.get({
-                url: `${BASE_URL}/repos/${user}/${repo}/contents/${encodeURIComponent(path)}`,
+                url: `${BASE_URL}/repos/${user}/${repo}/contents/${encodeURIComponent(path)}?ref=${branch}`,
                 headers: {
                     Authorization: `token ${GITHUB_ACCESS_TOKEN}`,
                     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.141 Safari/537.36",

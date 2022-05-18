@@ -61,6 +61,7 @@
     {
         "user": "GeQ1an",
         "repo": "Rules",
-        "branch": "master"
+        "branch": "master",
+        "paths": ["Loon"]
     }
 ]
