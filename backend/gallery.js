@@ -13,8 +13,6 @@
 
 const $ = API("loon-gallery", true);
 
-const GITHUB_ACCESS_TOKEN = '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';
-
 const PLUGIN_SOURCE_REPO_KEY = "sources-repos";
 if (!$.read(PLUGIN_SOURCE_REPO_KEY)) $.write({}, PLUGIN_SOURCE_REPO_KEY);
 

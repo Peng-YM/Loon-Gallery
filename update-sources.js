@@ -1,9 +1,8 @@
 const fs = require("fs");
 
 const $http = HTTP();
-const Base64 = new Base64Code();
 
-const GITHUB_ACCESS_TOKEN = Base64.decode('Z2hwX3R4OE5aYTdBNkFPOFppZE9Temc1VHFERFBTVU8xODJUNUVNYw==');
+const GITHUB_ACCESS_TOKEN = process.argv[2];
 
 const PLUGIN_DATA_PATH = "./data/plugins.json";
 const SOURCE_REPO_DATA_PATH = "./data/repos.json";

@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: npm install request
       - name: Update source
-        run: node update-sources.js
+        run: node update-sources.js ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         run: |
           git config user.email github-actions
