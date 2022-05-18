@@ -2,7 +2,9 @@
   <v-container fluid>
     <v-expansion-panels>
       <v-expansion-panel
-          v-for="repoId in Object.keys(repos).sort((a, b) => repos[a].user.localeCompare(repos[b].user))"
+          v-for="repoId in Object.keys(repos)
+            .sort((a, b) => repos[a].user.localeCompare(repos[b].user))
+            .filter(repoId => plugins[repoId].length > 0)"
           :key="repoId">
         <v-expansion-panel-header>
           <v-row align="center" justify="start" no-gutters>
@@ -34,8 +36,9 @@
           <v-list dense nav class="ma-n4">
             <v-list-item three-line
                          v-for="(plugin, idx) in plugins[repoId]"
-                         :key="idx">
-              <v-list-item-avatar class="elevation-3" size="35px" @click="open(plugin.url)">
+                         :key="idx"
+                         @click="open(plugin.url)">
+              <v-list-item-avatar size="35px" rounded>
                 <v-icon v-if="plugin.icon === undefined">fa-question</v-icon>
                 <v-img :src="plugin.icon" v-else/>
               </v-list-item-avatar>
@@ -74,18 +77,27 @@
 </template>
 
 <script>
-import {axios} from "@/utils";
+import axios from "axios";
 
 export default {
   name: "GalleryComponent",
   created() {
-    axios.get("/official").then(resp => {
+    const PLUGINS_DATA_URL = "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/data/plugins.json";
+    const SOURCES_DATA_URL = "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/data/repos.json";
+
+    axios.get(PLUGINS_DATA_URL).then(resp => {
       const {data} = resp;
-      this.repos = data.repos;
-      this.plugins = data.plugins;
-    }).catch(err => {
-      console.log(err.response.data.error);
-    });
+      // sort according to plugin names
+      for (const id of Object.keys(data)) {
+        data[id] = data[id].sort((a, b) => a.name.localeCompare(b.name));
+      }
+      this.plugins = data;
+    }).catch(console.error);
+
+    axios.get(SOURCES_DATA_URL).then(resp => {
+      const {data} = resp;
+      this.repos = data;
+    }).catch(console.error);
   },
 
   data: function () {
