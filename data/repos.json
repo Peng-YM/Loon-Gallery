@@ -11,17 +11,17 @@
     "stargazers_count": 943,
     "forks_count": 119
   },
-  "VirgilClyne-iRingo-main": {
+  "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
-    "repo": "iRingo",
+    "repo": "VirgilClyne",
     "branch": "main",
     "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
     "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-05-26T18:31:23Z",
-    "stargazers_count": 3883,
-    "forks_count": 217
+    "repo_description": "个人独立作品或公共组件库",
+    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
+    "updated_at": "2022-05-24T10:55:24Z",
+    "stargazers_count": 32,
+    "forks_count": 4
   },
   "Peng-YM-QuanX-master": {
     "user": "Peng-YM",
@@ -59,17 +59,17 @@
     "stargazers_count": 777,
     "forks_count": 231
   },
-  "VirgilClyne-VirgilClyne-main": {
-    "user": "VirgilClyne",
-    "repo": "VirgilClyne",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "个人独立作品或公共组件库",
-    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
-    "updated_at": "2022-05-24T10:55:24Z",
-    "stargazers_count": 32,
-    "forks_count": 4
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-05-26T16:43:12Z",
+    "stargazers_count": 880,
+    "forks_count": 63
   },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
@@ -83,30 +83,6 @@
     "stargazers_count": 4803,
     "forks_count": 939
   },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-05-26T16:43:12Z",
-    "stargazers_count": 880,
-    "forks_count": 63
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-05-26T16:24:17Z",
-    "stargazers_count": 5744,
-    "forks_count": 3187
-  },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
     "repo": "DualSubs",
@@ -118,6 +94,18 @@
     "updated_at": "2022-05-25T15:22:52Z",
     "stargazers_count": 293,
     "forks_count": 10
+  },
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-05-26T18:31:23Z",
+    "stargazers_count": 3883,
+    "forks_count": 217
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
@@ -142,5 +130,17 @@
     "updated_at": "2022-05-26T07:28:28Z",
     "stargazers_count": 394,
     "forks_count": 52
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-05-26T16:24:17Z",
+    "stargazers_count": 5744,
+    "forks_count": 3187
   }
 }
