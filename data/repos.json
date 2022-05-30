@@ -35,6 +35,30 @@
     "stargazers_count": 948,
     "forks_count": 121
   },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-05-30T01:23:32Z",
+    "stargazers_count": 3570,
+    "forks_count": 1093
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-05-30T01:22:28Z",
+    "stargazers_count": 5762,
+    "forks_count": 3187
+  },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
     "repo": "Loon-Script",
@@ -55,8 +79,8 @@
     "owner_url": "https://github.com/VirgilClyne",
     "repo_description": "解锁完整的 Apple功能和集成服务",
     "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-05-29T13:48:29Z",
-    "stargazers_count": 3904,
+    "updated_at": "2022-05-30T00:39:39Z",
+    "stargazers_count": 3905,
     "forks_count": 218
   },
   "app2smile-rules-master": {
@@ -71,18 +95,6 @@
     "stargazers_count": 893,
     "forks_count": 64
   },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-05-29T19:42:16Z",
-    "stargazers_count": 3569,
-    "forks_count": 1093
-  },
   "Peng-YM-QuanX-master": {
     "user": "Peng-YM",
     "repo": "QuanX",
@@ -94,18 +106,6 @@
     "updated_at": "2022-05-29T15:43:23Z",
     "stargazers_count": 903,
     "forks_count": 148
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-05-29T19:48:55Z",
-    "stargazers_count": 5760,
-    "forks_count": 3187
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
@@ -119,6 +119,18 @@
     "stargazers_count": 300,
     "forks_count": 10
   },
+  "GeQ1an-Rules-master": {
+    "user": "GeQ1an",
+    "repo": "Rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
+    "owner_url": "https://github.com/GeQ1an",
+    "repo_description": "Stick Rules -- Quantumult X / Loon / ClashX Rules \\ Quantumult back to CN Rules",
+    "repo_url": "https://github.com/GeQ1an/Rules",
+    "updated_at": "2022-05-29T16:29:50Z",
+    "stargazers_count": 574,
+    "forks_count": 174
+  },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
     "repo": "rule_for_quantumultX",
@@ -130,17 +142,5 @@
     "updated_at": "2022-05-29T17:58:46Z",
     "stargazers_count": 397,
     "forks_count": 52
-  },
-  "GeQ1an-Rules-master": {
-    "user": "GeQ1an",
-    "repo": "Rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
-    "owner_url": "https://github.com/GeQ1an",
-    "repo_description": "Stick Rules -- Quantumult X / Loon / ClashX Rules \\ Quantumult back to CN Rules",
-    "repo_url": "https://github.com/GeQ1an/Rules",
-    "updated_at": "2022-05-29T16:29:50Z",
-    "stargazers_count": 574,
-    "forks_count": 173
   }
 }
