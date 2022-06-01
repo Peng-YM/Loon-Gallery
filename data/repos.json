@@ -1,39 +1,27 @@
 {
-  "VirgilClyne-VirgilClyne-main": {
-    "user": "VirgilClyne",
-    "repo": "VirgilClyne",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "个人独立作品或公共组件库",
-    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
-    "updated_at": "2022-06-01T03:25:32Z",
-    "stargazers_count": 34,
-    "forks_count": 7
-  },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-06-01T15:38:05Z",
-    "stargazers_count": 896,
-    "forks_count": 64
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-05-31T16:34:33Z",
+    "stargazers_count": 904,
+    "forks_count": 148
   },
-  "zqzess-rule_for_quantumultX-master": {
-    "user": "zqzess",
-    "repo": "rule_for_quantumultX",
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
-    "owner_url": "https://github.com/zqzess",
-    "repo_description": "自用QuantumultX,Loon,surge规则与配置文件，GithubAction定期自动从上游拉取资源整合更新，部分手动维护",
-    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
-    "updated_at": "2022-06-01T11:37:10Z",
-    "stargazers_count": 401,
-    "forks_count": 55
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-06-01T15:54:06Z",
+    "stargazers_count": 3575,
+    "forks_count": 1093
   },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
@@ -47,29 +35,17 @@
     "stargazers_count": 3916,
     "forks_count": 220
   },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-06-01T02:00:30Z",
-    "stargazers_count": 3574,
-    "forks_count": 1093
-  },
-  "Peng-YM-Sub-Store-master": {
-    "user": "Peng-YM",
-    "repo": "Sub-Store",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
-    "repo_url": "https://github.com/Peng-YM/Sub-Store",
-    "updated_at": "2022-06-01T06:09:20Z",
-    "stargazers_count": 960,
-    "forks_count": 122
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2022-06-01T16:03:33Z",
+    "stargazers_count": 4865,
+    "forks_count": 951
   },
   "NobyDa-Script-master": {
     "user": "NobyDa",
@@ -83,29 +59,17 @@
     "stargazers_count": 5777,
     "forks_count": 3189
   },
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-05-31T16:34:33Z",
-    "stargazers_count": 904,
-    "forks_count": 148
-  },
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-06-01T14:14:39Z",
-    "stargazers_count": 4864,
-    "forks_count": 951
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-06-01T15:38:05Z",
+    "stargazers_count": 896,
+    "forks_count": 64
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
@@ -118,6 +82,18 @@
     "updated_at": "2022-06-01T08:59:34Z",
     "stargazers_count": 306,
     "forks_count": 10
+  },
+  "VirgilClyne-VirgilClyne-main": {
+    "user": "VirgilClyne",
+    "repo": "VirgilClyne",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "个人独立作品或公共组件库",
+    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
+    "updated_at": "2022-06-01T03:25:32Z",
+    "stargazers_count": 34,
+    "forks_count": 7
   },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
@@ -142,5 +118,29 @@
     "updated_at": "2022-06-01T08:46:16Z",
     "stargazers_count": 576,
     "forks_count": 173
+  },
+  "zqzess-rule_for_quantumultX-master": {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
+    "owner_url": "https://github.com/zqzess",
+    "repo_description": "自用QuantumultX,Loon,surge规则与配置文件，GithubAction定期自动从上游拉取资源整合更新，部分手动维护",
+    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
+    "updated_at": "2022-06-01T11:37:10Z",
+    "stargazers_count": 401,
+    "forks_count": 55
+  },
+  "Peng-YM-Sub-Store-master": {
+    "user": "Peng-YM",
+    "repo": "Sub-Store",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
+    "repo_url": "https://github.com/Peng-YM/Sub-Store",
+    "updated_at": "2022-06-01T06:09:20Z",
+    "stargazers_count": 960,
+    "forks_count": 122
   }
 }
