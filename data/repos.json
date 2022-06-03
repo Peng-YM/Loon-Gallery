@@ -1,51 +1,15 @@
 {
-  "VirgilClyne-iRingo-main": {
+  "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
-    "repo": "iRingo",
+    "repo": "VirgilClyne",
     "branch": "main",
     "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
     "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-06-03T17:06:19Z",
-    "stargazers_count": 3929,
-    "forks_count": 219
-  },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-06-03T17:06:11Z",
-    "stargazers_count": 3581,
-    "forks_count": 1093
-  },
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-06-03T17:06:13Z",
-    "stargazers_count": 4876,
-    "forks_count": 954
-  },
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-06-03T17:35:48Z",
-    "stargazers_count": 907,
-    "forks_count": 148
+    "repo_description": "个人独立作品或公共组件库",
+    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
+    "updated_at": "2022-06-01T03:25:32Z",
+    "stargazers_count": 34,
+    "forks_count": 6
   },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
@@ -71,29 +35,29 @@
     "stargazers_count": 968,
     "forks_count": 122
   },
-  "VirgilClyne-VirgilClyne-main": {
-    "user": "VirgilClyne",
-    "repo": "VirgilClyne",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "个人独立作品或公共组件库",
-    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
-    "updated_at": "2022-06-01T03:25:32Z",
-    "stargazers_count": 34,
-    "forks_count": 6
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-06-02T06:13:41Z",
-    "stargazers_count": 5780,
-    "forks_count": 3190
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2022-06-03T17:06:13Z",
+    "stargazers_count": 4876,
+    "forks_count": 954
+  },
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-06-03T17:35:48Z",
+    "stargazers_count": 907,
+    "forks_count": 148
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
@@ -107,6 +71,42 @@
     "stargazers_count": 307,
     "forks_count": 10
   },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-06-02T17:22:34Z",
+    "stargazers_count": 898,
+    "forks_count": 64
+  },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-06-03T17:54:35Z",
+    "stargazers_count": 3582,
+    "forks_count": 1093
+  },
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-06-03T17:06:19Z",
+    "stargazers_count": 3929,
+    "forks_count": 219
+  },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
     "repo": "Rules",
@@ -119,17 +119,17 @@
     "stargazers_count": 577,
     "forks_count": 173
   },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-06-02T17:22:34Z",
-    "stargazers_count": 898,
-    "forks_count": 64
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-06-02T06:13:41Z",
+    "stargazers_count": 5780,
+    "forks_count": 3190
   },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
