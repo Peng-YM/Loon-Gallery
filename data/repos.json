@@ -1,39 +1,15 @@
 {
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
+  "GeQ1an-Rules-master": {
+    "user": "GeQ1an",
+    "repo": "Rules",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-06-04T18:43:06Z",
-    "stargazers_count": 3585,
-    "forks_count": 1094
-  },
-  "Peng-YM-Sub-Store-master": {
-    "user": "Peng-YM",
-    "repo": "Sub-Store",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
-    "repo_url": "https://github.com/Peng-YM/Sub-Store",
-    "updated_at": "2022-06-04T06:24:20Z",
-    "stargazers_count": 972,
-    "forks_count": 121
-  },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-06-04T15:46:26Z",
-    "stargazers_count": 3936,
-    "forks_count": 219
+    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
+    "owner_url": "https://github.com/GeQ1an",
+    "repo_description": "Stick Rules -- Quantumult X / Loon / ClashX Rules \\ Quantumult back to CN Rules",
+    "repo_url": "https://github.com/GeQ1an/Rules",
+    "updated_at": "2022-06-04T07:49:35Z",
+    "stargazers_count": 580,
+    "forks_count": 173
   },
   "Peng-YM-QuanX-master": {
     "user": "Peng-YM",
@@ -47,17 +23,17 @@
     "stargazers_count": 907,
     "forks_count": 149
   },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-06-04T00:58:40Z",
-    "stargazers_count": 5781,
-    "forks_count": 3190
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-06-04T15:46:26Z",
+    "stargazers_count": 3936,
+    "forks_count": 219
   },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
@@ -95,6 +71,54 @@
     "stargazers_count": 4884,
     "forks_count": 956
   },
+  "Peng-YM-Sub-Store-master": {
+    "user": "Peng-YM",
+    "repo": "Sub-Store",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
+    "repo_url": "https://github.com/Peng-YM/Sub-Store",
+    "updated_at": "2022-06-04T06:24:20Z",
+    "stargazers_count": 972,
+    "forks_count": 121
+  },
+  "VirgilClyne-VirgilClyne-main": {
+    "user": "VirgilClyne",
+    "repo": "VirgilClyne",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "个人独立作品或公共组件库",
+    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
+    "updated_at": "2022-06-01T03:25:32Z",
+    "stargazers_count": 34,
+    "forks_count": 6
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-06-04T00:58:40Z",
+    "stargazers_count": 5781,
+    "forks_count": 3190
+  },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-06-04T18:43:06Z",
+    "stargazers_count": 3585,
+    "forks_count": 1094
+  },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
     "repo": "rule_for_quantumultX",
@@ -118,29 +142,5 @@
     "updated_at": "2022-06-04T08:17:52Z",
     "stargazers_count": 309,
     "forks_count": 10
-  },
-  "GeQ1an-Rules-master": {
-    "user": "GeQ1an",
-    "repo": "Rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
-    "owner_url": "https://github.com/GeQ1an",
-    "repo_description": "Stick Rules -- Quantumult X / Loon / ClashX Rules \\ Quantumult back to CN Rules",
-    "repo_url": "https://github.com/GeQ1an/Rules",
-    "updated_at": "2022-06-04T07:49:35Z",
-    "stargazers_count": 580,
-    "forks_count": 173
-  },
-  "VirgilClyne-VirgilClyne-main": {
-    "user": "VirgilClyne",
-    "repo": "VirgilClyne",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "个人独立作品或公共组件库",
-    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
-    "updated_at": "2022-06-01T03:25:32Z",
-    "stargazers_count": 34,
-    "forks_count": 6
   }
 }
