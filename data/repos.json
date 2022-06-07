@@ -1,16 +1,4 @@
 {
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-06-07T21:47:27Z",
-    "stargazers_count": 3589,
-    "forks_count": 1096
-  },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
     "repo": "Loon-Script",
@@ -35,30 +23,6 @@
     "stargazers_count": 981,
     "forks_count": 122
   },
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-06-07T18:33:50Z",
-    "stargazers_count": 912,
-    "forks_count": 149
-  },
-  "DualSubs-DualSubs-main": {
-    "user": "DualSubs",
-    "repo": "DualSubs",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
-    "owner_url": "https://github.com/DualSubs",
-    "repo_description": "流媒体平台字幕增强及双语模块",
-    "repo_url": "https://github.com/DualSubs/DualSubs",
-    "updated_at": "2022-06-07T18:18:07Z",
-    "stargazers_count": 311,
-    "forks_count": 10
-  },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
     "repo": "ios_rule_script",
@@ -71,6 +35,30 @@
     "stargazers_count": 4922,
     "forks_count": 959
   },
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-06-07T18:33:50Z",
+    "stargazers_count": 912,
+    "forks_count": 149
+  },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-06-07T21:47:27Z",
+    "stargazers_count": 3589,
+    "forks_count": 1096
+  },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
     "repo": "VirgilClyne",
@@ -82,6 +70,18 @@
     "updated_at": "2022-06-07T13:38:48Z",
     "stargazers_count": 36,
     "forks_count": 7
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-06-07T19:30:06Z",
+    "stargazers_count": 5789,
+    "forks_count": 3194
   },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
@@ -107,17 +107,17 @@
     "stargazers_count": 908,
     "forks_count": 65
   },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-06-07T19:30:06Z",
-    "stargazers_count": 5789,
-    "forks_count": 3194
+  "DualSubs-DualSubs-main": {
+    "user": "DualSubs",
+    "repo": "DualSubs",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
+    "owner_url": "https://github.com/DualSubs",
+    "repo_description": "流媒体平台字幕增强及双语模块",
+    "repo_url": "https://github.com/DualSubs/DualSubs",
+    "updated_at": "2022-06-07T18:18:07Z",
+    "stargazers_count": 311,
+    "forks_count": 10
   },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
