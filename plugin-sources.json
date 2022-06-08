@@ -64,4 +64,10 @@
         "branch": "master",
         "paths": ["Loon"]
     }
+    {
+        "user": "Coldvvater",
+        "repo": "Loon",
+        "branch": "master",
+        "paths": ["plugin"]
+    },
 ]
