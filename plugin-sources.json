@@ -63,7 +63,7 @@
         "repo": "Rules",
         "branch": "master",
         "paths": ["Loon"]
-    }
+    },
     {
         "user": "Coldvvater",
         "repo": "Loon",
