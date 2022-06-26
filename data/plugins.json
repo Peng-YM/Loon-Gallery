@@ -1,90 +1,16 @@
 {
-  "VirgilClyne-iRingo-main": [
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/TestFlight.plugin",
-      "name": " iRingo for TestFlight",
-      "description": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
-      "icon": "https://github.com/Koolson/Qure/blob/master/IconSet/Color/TestFlight_2.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.TestFlight",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo/wiki/✈️TestFlight"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/MitM.plugin",
-      "name": " iRingo for MitM All Possible  Hostnames",
-      "description": "MitM所有能解密的主机名称，仅供学习研究",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Unlock.png",
-      "open_url": "http://boxjs.com/#/app/iRingo",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Location.plugin",
-      "name": " iRingo for Location Services",
-      "description": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置 4.重定向动态(Dynamic)配置 5.重定向调度(Dispatcher)服务 6.重定向导航(Directions)服务 7.重定向交通状况(Traffic)服务 8.重定向瓦片(Tiles)地图服务",
-      "icon": "https://images.macrumors.com/article-new/2019/07/ios_location_services-250x250.jpg",
-      "open_url": "http://boxjs.com/#/app/iRingo.Location",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo/wiki/📍定位服务"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/TV.plugin",
-      "name": " iRingo for TV app",
-      "description": "(V2) 全面自定义「TV app」功能",
-      "icon": "https://www.apple.com/v/apple-tv-app/p/images/overview/apple_tv_icon__br5y3uwaibjm_large.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.TV",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo/wiki/📺TV-app"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Siri.plugin",
-      "name": " iRingo for Siri & Search",
-      "description": "(V2) 全面自定义「Siri与搜索」的功能。",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne//iRingo/wiki/🔍Siri与搜索"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin",
-      "name": " iRingo for News",
-      "description": "(V2) 1.自定义解锁News的地区 2.Coming Soon… 注：该插件包含代理规则，安装过程中需要匹配代理策略组为🇺🇸线路，使用过程中gateway.icloud.com会走与News相同的代理线路。",
-      "icon": "https://www.apple.com/v/apple-news/i/images/shared/icon_news_plus__c9r2qvl6xfqu_large.png",
-      "open_url": "http://boxjs.com/#/app/iRingo.News",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo/wiki/📰News"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.beta.plugin",
-      "name": " iRingo for Apple Weather",
-      "description": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
-      "open_url": "http://boxjs.com/#/app/iRingo.Weather.beta",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo/wiki/🌤天气"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.plugin",
-      "name": " iRingo for Apple Weather",
-      "description": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
-      "open_url": "http://boxjs.com/#/app/iRingo.Weather",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/iRingo/wiki/🌤天气"
-    }
-  ],
   "Coldvvater-Loon-master": [
-    {
-      "url": "https://raw.githubusercontent.com/Coldvvater/Loon/master/Plugin/DouBanPlay.plugin",
-      "name": "豆瓣影视",
-      "description": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-      "icon": "https://raw.githubusercontent.com/Coldvvater/Loon/master/IMG/Douban.PNG"
-    },
     {
       "url": "https://raw.githubusercontent.com/Coldvvater/Loon/master/Plugin/Q-Search.plugin",
       "name": "Q-Search",
       "description": "快捷切换聚合搜索引擎",
       "icon": "https://raw.githubusercontent.com/Coldvvater/Loon/master/IMG/Q.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Coldvvater/Loon/master/Plugin/DouBanPlay.plugin",
+      "name": "豆瓣影视",
+      "description": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+      "icon": "https://raw.githubusercontent.com/Coldvvater/Loon/master/IMG/Douban.PNG"
     },
     {
       "url": "https://raw.githubusercontent.com/Coldvvater/Loon/master/Plugin/Bili_Auto_Regions.plugin",
@@ -113,6 +39,89 @@
       "manual": "https://github.com/DualSubs/DualSubs"
     }
   ],
+  "VirgilClyne-iRingo-main": [
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Siri.plugin",
+      "name": " iRingo for Siri & Search",
+      "description": "(V2) 全面自定义「Siri与搜索」的功能。",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.Siri",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne//iRingo/wiki/🔍Siri与搜索"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Location.plugin",
+      "name": " iRingo for Location Services",
+      "description": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置 4.重定向动态(Dynamic)配置 5.重定向调度(Dispatcher)服务 6.重定向导航(Directions)服务 7.重定向交通状况(Traffic)服务 8.重定向瓦片(Tiles)地图服务",
+      "icon": "https://images.macrumors.com/article-new/2019/07/ios_location_services-250x250.jpg",
+      "open_url": "http://boxjs.com/#/app/iRingo.Location",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo/wiki/📍定位服务"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/TV.plugin",
+      "name": " iRingo for TV app",
+      "description": "(V2) 全面自定义「TV app」功能",
+      "icon": "https://www.apple.com/v/apple-tv-app/p/images/overview/apple_tv_icon__br5y3uwaibjm_large.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.TV",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo/wiki/📺TV-app"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/MitM.plugin",
+      "name": " iRingo for MitM All Possible  Hostnames",
+      "description": "MitM所有能解密的主机名称，仅供学习研究",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Unlock.png",
+      "open_url": "http://boxjs.com/#/app/iRingo",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.plugin",
+      "name": " iRingo for Apple Weather",
+      "description": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
+      "open_url": "http://boxjs.com/#/app/iRingo.Weather",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo/wiki/🌤天气"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/News.plugin",
+      "name": " iRingo for News",
+      "description": "(V2) 1.自定义解锁News的地区 2.Coming Soon… 注：该插件包含代理规则，安装过程中需要匹配代理策略组为🇺🇸线路，使用过程中gateway.icloud.com会走与News相同的代理线路。",
+      "icon": "https://www.apple.com/v/apple-news/i/images/shared/icon_news_plus__c9r2qvl6xfqu_large.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.News",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo/wiki/📰News"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/TestFlight.plugin",
+      "name": " iRingo for TestFlight",
+      "description": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
+      "icon": "https://github.com/Koolson/Qure/blob/master/IconSet/Color/TestFlight_2.png",
+      "open_url": "http://boxjs.com/#/app/iRingo.TestFlight",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo/wiki/✈️TestFlight"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/plugin/Weather.beta.plugin",
+      "name": " iRingo for Apple Weather",
+      "description": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/76/87/c8768792-b7ab-7de4-9c70-1888096b7ae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/108x0w.webp",
+      "open_url": "http://boxjs.com/#/app/iRingo.Weather.beta",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/iRingo/wiki/🌤天气"
+    }
+  ],
+  "GeQ1an-Rules-master": [
+    {
+      "url": "https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin",
+      "name": "Stick Rules for Rewrite",
+      "description": "常用重写规则与一些广告屏蔽，适合大部分用户，更多需求可配合其他重写规则共同使用",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png",
+      "homepage": "https://github.com/GeQ1an/Rules/tree/master"
+    }
+  ],
   "VirgilClyne-VirgilClyne-main": [
     {
       "url": "https://raw.githubusercontent.com/VirgilClyne/VirgilClyne/main/modules/General/General.plugin",
@@ -131,38 +140,6 @@
   ],
   "blackmatrix7-ios_rule_script-master": [
     {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin",
-      "name": "Advertising",
-      "description": "最后更新时间 2022-06-23 17:34:10",
-      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
-      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
-      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin",
-      "name": "AdvertisingLite",
-      "description": "最后更新时间 2022-06-23 17:37:40",
-      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
-      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
-      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/SafeRedirect/SafeRedirect.plugin",
-      "name": "SafeRedirect",
-      "description": "最后更新时间 2022-06-23 17:37:38",
-      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
-      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
-      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin",
-      "name": "Upgrade",
-      "description": "最后更新时间 2022-06-23 17:37:38",
-      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
-      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
-      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
-    },
-    {
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookie/GetCookie.plugin",
       "name": "GetCookie",
       "description": "最后更新时间 2022-06-23 17:37:38",
@@ -171,9 +148,9 @@
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
     },
     {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin",
-      "name": "Redirect",
-      "description": "最后更新时间 2022-06-23 17:34:12",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin",
+      "name": "Advertising",
+      "description": "最后更新时间 2022-06-23 17:34:10",
       "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
       "open_url": "https://github.com/blackmatrix7/ios_rule_script",
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
@@ -193,19 +170,69 @@
       "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
       "open_url": "https://github.com/blackmatrix7/ios_rule_script",
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin",
+      "name": "AdvertisingLite",
+      "description": "最后更新时间 2022-06-23 17:37:40",
+      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
+      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
+      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin",
+      "name": "Upgrade",
+      "description": "最后更新时间 2022-06-23 17:37:38",
+      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
+      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
+      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/SafeRedirect/SafeRedirect.plugin",
+      "name": "SafeRedirect",
+      "description": "最后更新时间 2022-06-23 17:37:38",
+      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
+      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
+      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin",
+      "name": "Redirect",
+      "description": "最后更新时间 2022-06-23 17:34:12",
+      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
+      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
+      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
     }
   ],
   "app2smile-rules-master": [
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/tieba.plugin",
-      "name": "贴吧去广告(iOS15)",
-      "description": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
       "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin",
       "name": "Spotify(iOS15)",
       "description": "部分解锁premium,建议重新登录,音质不能设置为超高",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/adsense.plugin",
+      "name": "广告联盟去广告",
+      "description": "快手联盟,优量汇,穿山甲",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qidian.plugin",
+      "name": "起点App去广告",
+      "description": "Loon已支持tcp mitm,可以完美去广告",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qqnews.plugin",
+      "name": "腾讯新闻App去广告",
+      "description": "开屏页广告有缓存,需要全新应用",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/tieba.plugin",
+      "name": "贴吧去广告(iOS15)",
+      "description": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告",
       "open_url": "https://github.com/app2smile/rules"
     },
     {
@@ -221,52 +248,26 @@
       "open_url": "https://github.com/app2smile/rules"
     },
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/zhihu.plugin",
-      "name": "知乎App去广告",
-      "description": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qqnews.plugin",
-      "name": "腾讯新闻App去广告",
-      "description": "开屏页广告有缓存,需要全新应用",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
       "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/baidu-no-redirect.plugin",
       "name": "baidu-no-redirect.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/adsense.plugin",
-      "name": "广告联盟去广告",
-      "description": "快手联盟,优量汇,穿山甲",
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/zhihu.plugin",
+      "name": "知乎App去广告",
+      "description": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
       "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qidian.plugin",
-      "name": "起点App去广告",
-      "description": "Loon已支持tcp mitm,可以完美去广告",
-      "open_url": "https://github.com/app2smile/rules"
-    }
-  ],
-  "GeQ1an-Rules-master": [
-    {
-      "url": "https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.plugin",
-      "name": "Stick Rules for Rewrite",
-      "description": "常用重写规则与一些广告屏蔽，适合大部分用户，更多需求可配合其他重写规则共同使用",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png",
-      "homepage": "https://github.com/GeQ1an/Rules/tree/master"
     }
   ],
   "Tartarus2014-Loon-Script-master": [
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Host.plugin",
-      "name": "Host"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/skip-proxy.plugin",
+      "name": "跳过代理检测",
+      "description": "跳过部分应用的代理检测，网上国网、顺丰金融、广东农信、建行生活、小影、丰云行"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/EMBY.plugin",
-      "name": "EMBYPJ",
-      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/EMBY.png"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Manhuaren.plugin",
+      "name": "漫画人去广告",
+      "description": "漫画人下载链接：https://www.manhuaren.com/"
     },
     {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Q-Search_All_in_one.plugin",
@@ -274,9 +275,9 @@
       "description": "From Neurogram (https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule)"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/HuiJuDongManAds.plugin",
-      "name": "荟聚动漫去广告",
-      "description": "去除大多数弹屏以及底栏广告, 由于有广告缓存, 因此可能需要卸载App重装. @NobyDa"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Display%20Netflix%20Ratings.plugin",
+      "name": "Display Netflix Ratings",
+      "description": "奈菲迪士尼评分"
     },
     {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/TF-Download.plugin",
@@ -285,28 +286,8 @@
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TestFlight.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/For-own-use.plugin",
-      "name": "For-own-use",
-      "description": "一些插件合集 包括：哔哩哔哩 微博 奈飞评分 京东淘宝比价"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Display%20Netflix%20Ratings.plugin",
-      "name": "Display Netflix Ratings",
-      "description": "奈菲迪士尼评分"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Manhuaren.plugin",
-      "name": "漫画人去广告",
-      "description": "漫画人下载链接：https://www.manhuaren.com/"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/ChangeUA.plugin",
-      "name": "ChangeUA",
-      "description": "更换 User-Agent 以提升体验，使用手机百度 Quark 的 User-Agent。"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/RRTV.plugin",
-      "name": "RRTV.plugin"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Jd_unbindCard.plugin",
+      "name": "Jd_unbindCard.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Historical%20Price.plugin",
@@ -314,18 +295,37 @@
       "description": "京东淘宝历史价格"
     },
     {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/ChangeUA.plugin",
+      "name": "ChangeUA",
+      "description": "更换 User-Agent 以提升体验，使用手机百度 Quark 的 User-Agent。"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/HuiJuDongManAds.plugin",
+      "name": "荟聚动漫去广告",
+      "description": "去除大多数弹屏以及底栏广告, 由于有广告缓存, 因此可能需要卸载App重装. @NobyDa"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/RRTV.plugin",
+      "name": "RRTV.plugin"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/115.plugin",
       "name": "115",
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/115.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Jd_unbindCard.plugin",
-      "name": "Jd_unbindCard.plugin"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/For-own-use.plugin",
+      "name": "For-own-use",
+      "description": "一些插件合集 包括：哔哩哔哩 微博 奈飞评分 京东淘宝比价"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/skip-proxy.plugin",
-      "name": "跳过代理检测",
-      "description": "跳过部分应用的代理检测，网上国网、顺丰金融、广东农信、建行生活、小影、丰云行"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/EMBY.plugin",
+      "name": "EMBYPJ",
+      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/EMBY.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Host.plugin",
+      "name": "Host"
     },
     {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin",
@@ -335,26 +335,13 @@
       "homepage": "https://github.com/Loon0x00/LoonExampleConfig"
     },
     {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin",
+      "name": "Advertising.plugin"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Bilibili.plugin",
       "name": "Bilibili 去广告",
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/Bilibili.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Block%20Update.plugin",
-      "name": "Block Update.plugin",
-      "description": "屏蔽 iOS 系统更新且需匹配REJECT策略组"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/ZhiHu.plugin",
-      "name": "知乎去广告",
-      "description": "项目Github链接：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu",
-      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/ZhiHu.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/WeiboAds.plugin",
-      "name": "微博去广告",
-      "description": "Weibo app removes ad.",
-      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/WeiBo.png"
     },
     {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAdsTest.plugin",
@@ -368,19 +355,21 @@
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Unlock/TikTokTW.plugin",
-      "name": "TikTokTW",
-      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin",
       "name": "YouTube去广告",
       "description": "YouTube去广告 （Premium 勿用且版本需 ＞ 15.26.4）",
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/YouTube.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin",
-      "name": "Advertising.plugin"
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Block%20Update.plugin",
+      "name": "Block Update.plugin",
+      "description": "屏蔽 iOS 系统更新且需匹配REJECT策略组"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/WeiboAds.plugin",
+      "name": "微博去广告",
+      "description": "Weibo app removes ad.",
+      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/WeiBo.png"
     },
     {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Unlock/TikTokUK.plugin",
@@ -388,22 +377,51 @@
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Unlock/TikTokKR.plugin",
-      "name": "TikTokKR",
-      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Unlock/TikTokJP.plugin",
       "name": "TikTokJP",
       "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/ZhiHu.plugin",
+      "name": "知乎去广告",
+      "description": "项目Github链接：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu",
+      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/ZhiHu.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Unlock/TikTokTW.plugin",
+      "name": "TikTokTW",
+      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Unlock/TikTokKR.plugin",
+      "name": "TikTokKR",
+      "icon": "https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Color/TikTok.png"
+    }
+  ],
+  "chavyleung-scripts-master": [
+    {
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
+      "name": "BoxJs",
+      "description": "Data manager",
+      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
+      "open_url": "http://boxjs.com",
+      "homepage": "https://chavyleung.gitbook.io/boxjs/"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin",
+      "name": "BoxJs",
+      "description": "Data manager",
+      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
+      "open_url": "http://boxjs.com",
+      "homepage": "https://chavyleung.gitbook.io/boxjs/"
     }
   ],
   "NobyDa-Script-master": [
     {
-      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin",
-      "name": "TestFlight区域限制解除",
-      "description": "该Loon插件用以解决更新TestFlight App时, 提示\"APP不可用\"问题.",
-      "icon": "https://cdn.jsdelivr.net/gh/NobyDa/mini@master/Color/testflight.png",
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_GetCookie.plugin",
+      "name": "NobyDa签到脚本Cookie获取",
+      "description": "包括京东、哔哩漫画、贴吧、快看、吾爱、爱奇艺，获取方法请看脚本注释；建议使用后手动将该插件禁用, 以避免无意义的MITM。",
+      "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png",
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     },
     {
@@ -414,10 +432,10 @@
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     },
     {
-      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_GetCookie.plugin",
-      "name": "NobyDa签到脚本Cookie获取",
-      "description": "包括京东、哔哩漫画、贴吧、快看、吾爱、爱奇艺，获取方法请看脚本注释；建议使用后手动将该插件禁用, 以避免无意义的MITM。",
-      "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png",
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin",
+      "name": "TestFlight区域限制解除",
+      "description": "该Loon插件用以解决更新TestFlight App时, 提示\"APP不可用\"问题.",
+      "icon": "https://cdn.jsdelivr.net/gh/NobyDa/mini@master/Color/testflight.png",
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     },
     {
@@ -428,31 +446,12 @@
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     }
   ],
-  "chavyleung-scripts-master": [
-    {
-      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin",
-      "name": "BoxJs",
-      "description": "Data manager",
-      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
-      "open_url": "http://boxjs.com",
-      "homepage": "https://chavyleung.gitbook.io/boxjs/"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
-      "name": "BoxJs",
-      "description": "Data manager",
-      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
-      "open_url": "http://boxjs.com",
-      "homepage": "https://chavyleung.gitbook.io/boxjs/"
-    }
-  ],
   "Peng-YM-QuanX-master": [
     {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin",
-      "name": "GitHub Private Access",
-      "description": "GitHub 访问私有仓库",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png",
-      "homepage": "https://t.me/cool_scripts/147"
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin",
+      "name": "Persistent Policy",
+      "description": "记忆当前网络下策略组选中状态，切换网络时自动恢复",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
     },
     {
       "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin",
@@ -461,22 +460,31 @@
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin",
-      "name": "Persistent Policy",
-      "description": "记忆当前网络下策略组选中状态，切换网络时自动恢复",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.plugin",
       "name": "运行模式",
       "description": "根据当前网络自动切换模式",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin",
+      "name": "GitHub Private Access",
+      "description": "GitHub 访问私有仓库",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png",
+      "homepage": "https://t.me/cool_scripts/147"
     }
   ],
   "zqzess-rule_for_quantumultX-master": [
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/bilibili.plugin",
-      "name": "bilibili.plugin"
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/kuwo.plugin",
+      "name": "kuwo.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearchddg.plugin",
+      "name": "Qsearchddg.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/ReFix.plugin",
+      "name": "ReFix.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/FanQieNovel.plugin",
@@ -491,40 +499,32 @@
       "name": "bodianMusic.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/YouTubeAd.plugin",
-      "name": "YouTubeAd.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/zhihu.plugin",
-      "name": "zhihu.plugin"
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/QzoneAdBlock.plugin",
+      "name": "QzoneAdBlock.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/BaiduAdBlock.plugin",
       "name": "BaiduAdBlock.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/QzoneAdBlock.plugin",
-      "name": "QzoneAdBlock.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/kuwo.plugin",
-      "name": "kuwo.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/ReFix.plugin",
-      "name": "ReFix.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearchddg.plugin",
-      "name": "Qsearchddg.plugin"
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/bilibili.plugin",
+      "name": "bilibili.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearch.plugin",
       "name": "Qsearch.plugin"
     },
     {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/YouTubeAd.plugin",
+      "name": "YouTubeAd.plugin"
+    },
+    {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Rewrite.plugin",
       "name": "Rewrite.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/zhihu.plugin",
+      "name": "zhihu.plugin"
     }
   ],
   "Peng-YM-Sub-Store-master": [
