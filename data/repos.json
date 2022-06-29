@@ -1,15 +1,27 @@
 {
-  "GeQ1an-Rules-master": {
-    "user": "GeQ1an",
-    "repo": "Rules",
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
-    "owner_url": "https://github.com/GeQ1an",
-    "repo_description": "Stick Rules -- Quantumult X / Loon / ClashX Rules \\ Quantumult back to CN Rules",
-    "repo_url": "https://github.com/GeQ1an/Rules",
-    "updated_at": "2022-06-26T10:11:29Z",
-    "stargazers_count": 624,
-    "forks_count": 177
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-06-26T09:25:19Z",
+    "stargazers_count": 933,
+    "forks_count": 153
+  },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-06-27T18:17:15Z",
+    "stargazers_count": 782,
+    "forks_count": 235
   },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
@@ -47,18 +59,6 @@
     "stargazers_count": 4098,
     "forks_count": 227
   },
-  "VirgilClyne-VirgilClyne-main": {
-    "user": "VirgilClyne",
-    "repo": "VirgilClyne",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "个人独立作品或公共组件库",
-    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
-    "updated_at": "2022-06-29T01:52:55Z",
-    "stargazers_count": 51,
-    "forks_count": 10
-  },
   "NobyDa-Script-master": {
     "user": "NobyDa",
     "repo": "Script",
@@ -83,53 +83,17 @@
     "stargazers_count": 434,
     "forks_count": 58
   },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
+  "GeQ1an-Rules-master": {
+    "user": "GeQ1an",
+    "repo": "Rules",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-06-27T18:17:15Z",
-    "stargazers_count": 782,
-    "forks_count": 235
-  },
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-06-26T09:25:19Z",
-    "stargazers_count": 933,
-    "forks_count": 153
-  },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-06-29T08:26:46Z",
-    "stargazers_count": 3648,
-    "forks_count": 1104
-  },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-06-28T12:34:54Z",
-    "stargazers_count": 944,
-    "forks_count": 69
+    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
+    "owner_url": "https://github.com/GeQ1an",
+    "repo_description": "Stick Rules -- Quantumult X / Loon / ClashX Rules \\ Quantumult back to CN Rules",
+    "repo_url": "https://github.com/GeQ1an/Rules",
+    "updated_at": "2022-06-26T10:11:29Z",
+    "stargazers_count": 624,
+    "forks_count": 177
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
@@ -143,6 +107,42 @@
     "stargazers_count": 364,
     "forks_count": 12
   },
+  "VirgilClyne-VirgilClyne-main": {
+    "user": "VirgilClyne",
+    "repo": "VirgilClyne",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "个人独立作品或公共组件库",
+    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
+    "updated_at": "2022-06-29T01:52:55Z",
+    "stargazers_count": 51,
+    "forks_count": 10
+  },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-06-28T12:34:54Z",
+    "stargazers_count": 944,
+    "forks_count": 69
+  },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-06-29T08:26:46Z",
+    "stargazers_count": 3648,
+    "forks_count": 1104
+  },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
     "repo": "Sub-Store",
@@ -151,8 +151,8 @@
     "owner_url": "https://github.com/sub-store-org",
     "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
     "repo_url": "https://github.com/sub-store-org/Sub-Store",
-    "updated_at": "2022-06-29T08:47:09Z",
-    "stargazers_count": 1262,
+    "updated_at": "2022-06-29T10:24:22Z",
+    "stargazers_count": 1263,
     "forks_count": 139
   }
 }
