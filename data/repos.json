@@ -1,15 +1,15 @@
 {
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-07-02T07:49:36Z",
-    "stargazers_count": 3657,
-    "forks_count": 1105
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-07-02T02:47:42Z",
+    "stargazers_count": 4114,
+    "forks_count": 227
   },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
@@ -23,6 +23,30 @@
     "stargazers_count": 51,
     "forks_count": 10
   },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-07-02T06:34:23Z",
+    "stargazers_count": 953,
+    "forks_count": 69
+  },
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-07-02T10:10:12Z",
+    "stargazers_count": 3658,
+    "forks_count": 1105
+  },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
     "repo": "ios_rule_script",
@@ -34,18 +58,6 @@
     "updated_at": "2022-07-02T07:52:14Z",
     "stargazers_count": 5149,
     "forks_count": 1001
-  },
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-07-02T02:18:50Z",
-    "stargazers_count": 936,
-    "forks_count": 154
   },
   "Coldvvater-Loon-master": {
     "user": "Coldvvater",
@@ -59,42 +71,6 @@
     "stargazers_count": 2,
     "forks_count": 0
   },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-07-02T02:47:42Z",
-    "stargazers_count": 4114,
-    "forks_count": 227
-  },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-07-02T06:34:23Z",
-    "stargazers_count": 953,
-    "forks_count": 69
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-07-02T07:14:22Z",
-    "stargazers_count": 5880,
-    "forks_count": 3228
-  },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
     "repo": "DualSubs",
@@ -107,6 +83,30 @@
     "stargazers_count": 373,
     "forks_count": 12
   },
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-07-02T02:18:50Z",
+    "stargazers_count": 936,
+    "forks_count": 154
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-07-02T07:14:22Z",
+    "stargazers_count": 5880,
+    "forks_count": 3227
+  },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
     "repo": "Rules",
@@ -118,6 +118,18 @@
     "updated_at": "2022-07-02T09:09:13Z",
     "stargazers_count": 624,
     "forks_count": 177
+  },
+  "zqzess-rule_for_quantumultX-master": {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
+    "owner_url": "https://github.com/zqzess",
+    "repo_description": "自用QuantumultX,Loon,surge,clash规则与配置文件，GithubAction定期自动从上游拉取资源整合更新，部分手动维护",
+    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
+    "updated_at": "2022-07-02T09:02:58Z",
+    "stargazers_count": 437,
+    "forks_count": 58
   },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
@@ -142,17 +154,5 @@
     "updated_at": "2022-07-02T00:15:57Z",
     "stargazers_count": 1281,
     "forks_count": 138
-  },
-  "zqzess-rule_for_quantumultX-master": {
-    "user": "zqzess",
-    "repo": "rule_for_quantumultX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
-    "owner_url": "https://github.com/zqzess",
-    "repo_description": "自用QuantumultX,Loon,surge,clash规则与配置文件，GithubAction定期自动从上游拉取资源整合更新，部分手动维护",
-    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
-    "updated_at": "2022-07-02T09:02:58Z",
-    "stargazers_count": 437,
-    "forks_count": 58
   }
 }
