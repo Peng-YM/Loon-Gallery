@@ -31,33 +31,21 @@
     "owner_url": "https://github.com/chavyleung",
     "repo_description": "BoxJs",
     "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-07-03T13:25:49Z",
-    "stargazers_count": 3659,
+    "updated_at": "2022-07-03T13:42:07Z",
+    "stargazers_count": 3660,
     "forks_count": 1105
   },
-  "VirgilClyne-VirgilClyne-main": {
+  "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
-    "repo": "VirgilClyne",
+    "repo": "iRingo",
     "branch": "main",
     "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
     "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "个人独立作品或公共组件库",
-    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
-    "updated_at": "2022-06-29T01:52:55Z",
-    "stargazers_count": 51,
-    "forks_count": 10
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-07-03T11:43:17Z",
-    "stargazers_count": 5888,
-    "forks_count": 3227
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-07-03T14:06:37Z",
+    "stargazers_count": 4124,
+    "forks_count": 227
   },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
@@ -95,6 +83,30 @@
     "stargazers_count": 439,
     "forks_count": 58
   },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-07-03T03:42:02Z",
+    "stargazers_count": 955,
+    "forks_count": 69
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-07-03T13:50:27Z",
+    "stargazers_count": 5889,
+    "forks_count": 3227
+  },
   "Coldvvater-Loon-master": {
     "user": "Coldvvater",
     "repo": "Loon",
@@ -106,18 +118,6 @@
     "updated_at": "2022-06-12T07:13:15Z",
     "stargazers_count": 2,
     "forks_count": 0
-  },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-07-03T10:08:50Z",
-    "stargazers_count": 4123,
-    "forks_count": 227
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
@@ -131,17 +131,17 @@
     "stargazers_count": 623,
     "forks_count": 177
   },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-07-03T03:42:02Z",
-    "stargazers_count": 955,
-    "forks_count": 69
+  "VirgilClyne-VirgilClyne-main": {
+    "user": "VirgilClyne",
+    "repo": "VirgilClyne",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "个人独立作品或公共组件库",
+    "repo_url": "https://github.com/VirgilClyne/VirgilClyne",
+    "updated_at": "2022-06-29T01:52:55Z",
+    "stargazers_count": 51,
+    "forks_count": 10
   },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
@@ -151,8 +151,8 @@
     "owner_url": "https://github.com/sub-store-org",
     "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
     "repo_url": "https://github.com/sub-store-org/Sub-Store",
-    "updated_at": "2022-07-03T11:21:54Z",
-    "stargazers_count": 1284,
+    "updated_at": "2022-07-03T14:10:15Z",
+    "stargazers_count": 1285,
     "forks_count": 138
   }
 }
