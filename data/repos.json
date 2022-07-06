@@ -1,28 +1,4 @@
 {
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-07-05T13:31:20Z",
-    "stargazers_count": 787,
-    "forks_count": 237
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-07-06T06:34:54Z",
-    "stargazers_count": 5903,
-    "forks_count": 3230
-  },
   "chavyleung-scripts-master": {
     "user": "chavyleung",
     "repo": "scripts",
@@ -47,29 +23,17 @@
     "stargazers_count": 5191,
     "forks_count": 1008
   },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-07-06T06:46:01Z",
-    "stargazers_count": 4181,
-    "forks_count": 226
-  },
-  "zqzess-rule_for_quantumultX-master": {
-    "user": "zqzess",
-    "repo": "rule_for_quantumultX",
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
-    "owner_url": "https://github.com/zqzess",
-    "repo_description": "自用QuantumultX,Loon,surge,clash规则与配置文件，GithubAction定期自动从上游拉取资源整合更新，部分手动维护",
-    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
-    "updated_at": "2022-07-05T13:17:25Z",
-    "stargazers_count": 442,
-    "forks_count": 58
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-07-05T13:31:20Z",
+    "stargazers_count": 787,
+    "forks_count": 237
   },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
@@ -95,18 +59,6 @@
     "stargazers_count": 940,
     "forks_count": 154
   },
-  "Coldvvater-Loon-master": {
-    "user": "Coldvvater",
-    "repo": "Loon",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
-    "owner_url": "https://github.com/Coldvvater",
-    "repo_description": null,
-    "repo_url": "https://github.com/Coldvvater/Loon",
-    "updated_at": "2022-06-12T07:13:15Z",
-    "stargazers_count": 2,
-    "forks_count": 0
-  },
   "app2smile-rules-master": {
     "user": "app2smile",
     "repo": "rules",
@@ -118,6 +70,30 @@
     "updated_at": "2022-07-06T03:11:12Z",
     "stargazers_count": 962,
     "forks_count": 70
+  },
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-07-06T06:46:01Z",
+    "stargazers_count": 4181,
+    "forks_count": 226
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-07-06T06:34:54Z",
+    "stargazers_count": 5903,
+    "forks_count": 3230
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
@@ -142,6 +118,30 @@
     "updated_at": "2022-07-05T18:42:12Z",
     "stargazers_count": 379,
     "forks_count": 12
+  },
+  "zqzess-rule_for_quantumultX-master": {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
+    "owner_url": "https://github.com/zqzess",
+    "repo_description": "自用QuantumultX,Loon,surge,clash规则与配置文件，GithubAction定期自动从上游拉取资源整合更新，部分手动维护",
+    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
+    "updated_at": "2022-07-05T13:17:25Z",
+    "stargazers_count": 442,
+    "forks_count": 58
+  },
+  "Coldvvater-Loon-master": {
+    "user": "Coldvvater",
+    "repo": "Loon",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
+    "owner_url": "https://github.com/Coldvvater",
+    "repo_description": null,
+    "repo_url": "https://github.com/Coldvvater/Loon",
+    "updated_at": "2022-06-12T07:13:15Z",
+    "stargazers_count": 2,
+    "forks_count": 0
   },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
