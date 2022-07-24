@@ -11,6 +11,18 @@
     "stargazers_count": 967,
     "forks_count": 157
   },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-07-23T13:29:30Z",
+    "stargazers_count": 794,
+    "forks_count": 240
+  },
   "chavyleung-scripts-master": {
     "user": "chavyleung",
     "repo": "scripts",
@@ -23,17 +35,17 @@
     "stargazers_count": 3708,
     "forks_count": 1122
   },
-  "DualSubs-DualSubs-main": {
-    "user": "DualSubs",
-    "repo": "DualSubs",
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
-    "owner_url": "https://github.com/DualSubs",
-    "repo_description": "流媒体平台字幕增强及双语模块",
-    "repo_url": "https://github.com/DualSubs/DualSubs",
-    "updated_at": "2022-07-23T08:29:53Z",
-    "stargazers_count": 416,
-    "forks_count": 13
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-07-24T14:26:13Z",
+    "stargazers_count": 4324,
+    "forks_count": 226
   },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
@@ -47,30 +59,6 @@
     "stargazers_count": 59,
     "forks_count": 11
   },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-07-23T13:29:30Z",
-    "stargazers_count": 794,
-    "forks_count": 240
-  },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-07-24T14:10:22Z",
-    "stargazers_count": 4323,
-    "forks_count": 226
-  },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
     "repo": "ios_rule_script",
@@ -82,6 +70,18 @@
     "updated_at": "2022-07-24T12:01:02Z",
     "stargazers_count": 5384,
     "forks_count": 1050
+  },
+  "DualSubs-DualSubs-main": {
+    "user": "DualSubs",
+    "repo": "DualSubs",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
+    "owner_url": "https://github.com/DualSubs",
+    "repo_description": "流媒体平台字幕增强及双语模块",
+    "repo_url": "https://github.com/DualSubs/DualSubs",
+    "updated_at": "2022-07-23T08:29:53Z",
+    "stargazers_count": 416,
+    "forks_count": 14
   },
   "Coldvvater-Loon-master": {
     "user": "Coldvvater",
@@ -103,21 +103,9 @@
     "owner_url": "https://github.com/app2smile",
     "repo_description": "iOS App去广告",
     "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-07-24T02:30:45Z",
-    "stargazers_count": 1017,
+    "updated_at": "2022-07-24T14:34:38Z",
+    "stargazers_count": 1018,
     "forks_count": 75
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-07-24T09:15:01Z",
-    "stargazers_count": 5967,
-    "forks_count": 3247
   },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
@@ -130,6 +118,18 @@
     "updated_at": "2022-07-24T01:18:55Z",
     "stargazers_count": 462,
     "forks_count": 61
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-07-24T09:15:01Z",
+    "stargazers_count": 5967,
+    "forks_count": 3247
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
