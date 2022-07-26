@@ -1,16 +1,4 @@
 {
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-07-26T11:40:12Z",
-    "stargazers_count": 967,
-    "forks_count": 157
-  },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
     "repo": "ios_rule_script",
@@ -22,6 +10,18 @@
     "updated_at": "2022-07-26T18:03:01Z",
     "stargazers_count": 5400,
     "forks_count": 1052
+  },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-07-26T01:56:13Z",
+    "stargazers_count": 1033,
+    "forks_count": 76
   },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
@@ -35,29 +35,17 @@
     "stargazers_count": 64,
     "forks_count": 11
   },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-07-26T17:30:03Z",
-    "stargazers_count": 4343,
-    "forks_count": 224
-  },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-07-26T09:58:52Z",
-    "stargazers_count": 3711,
-    "forks_count": 1122
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-07-26T11:40:12Z",
+    "stargazers_count": 967,
+    "forks_count": 157
   },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
@@ -70,6 +58,18 @@
     "updated_at": "2022-07-26T09:44:53Z",
     "stargazers_count": 467,
     "forks_count": 61
+  },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-07-23T13:29:30Z",
+    "stargazers_count": 794,
+    "forks_count": 241
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
@@ -95,17 +95,29 @@
     "stargazers_count": 3,
     "forks_count": 0
   },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-07-26T20:16:20Z",
-    "stargazers_count": 5976,
-    "forks_count": 3250
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-07-26T09:58:52Z",
+    "stargazers_count": 3711,
+    "forks_count": 1122
+  },
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-07-26T17:30:03Z",
+    "stargazers_count": 4343,
+    "forks_count": 224
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
@@ -119,29 +131,17 @@
     "stargazers_count": 622,
     "forks_count": 178
   },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-07-26T01:56:13Z",
-    "stargazers_count": 1033,
-    "forks_count": 76
-  },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-07-23T13:29:30Z",
-    "stargazers_count": 794,
-    "forks_count": 241
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-07-26T20:16:20Z",
+    "stargazers_count": 5976,
+    "forks_count": 3250
   },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
