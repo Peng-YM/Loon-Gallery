@@ -1,15 +1,15 @@
 {
-  "DualSubs-DualSubs-main": {
-    "user": "DualSubs",
-    "repo": "DualSubs",
+  "VirgilClyne-iRingo-main": {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
-    "owner_url": "https://github.com/DualSubs",
-    "repo_description": "流媒体平台字幕增强及双语模块",
-    "repo_url": "https://github.com/DualSubs/DualSubs",
-    "updated_at": "2022-07-30T16:56:19Z",
-    "stargazers_count": 424,
-    "forks_count": 13
+    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
+    "owner_url": "https://github.com/VirgilClyne",
+    "repo_description": "解锁完整的 Apple功能和集成服务",
+    "repo_url": "https://github.com/VirgilClyne/iRingo",
+    "updated_at": "2022-07-30T16:58:43Z",
+    "stargazers_count": 4357,
+    "forks_count": 223
   },
   "chavyleung-scripts-master": {
     "user": "chavyleung",
@@ -23,18 +23,6 @@
     "stargazers_count": 3716,
     "forks_count": 1123
   },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2022-07-30T06:04:26Z",
-    "stargazers_count": 1041,
-    "forks_count": 77
-  },
   "Peng-YM-QuanX-master": {
     "user": "Peng-YM",
     "repo": "QuanX",
@@ -46,30 +34,6 @@
     "updated_at": "2022-07-30T04:56:30Z",
     "stargazers_count": 968,
     "forks_count": 158
-  },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-07-30T11:15:41Z",
-    "stargazers_count": 796,
-    "forks_count": 240
-  },
-  "Coldvvater-Loon-master": {
-    "user": "Coldvvater",
-    "repo": "Loon",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
-    "owner_url": "https://github.com/Coldvvater",
-    "repo_description": null,
-    "repo_url": "https://github.com/Coldvvater/Loon",
-    "updated_at": "2022-07-19T01:29:14Z",
-    "stargazers_count": 3,
-    "forks_count": 0
   },
   "zqzess-rule_for_quantumultX-master": {
     "user": "zqzess",
@@ -83,17 +47,17 @@
     "stargazers_count": 468,
     "forks_count": 61
   },
-  "VirgilClyne-iRingo-main": {
-    "user": "VirgilClyne",
-    "repo": "iRingo",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2111377?v=4",
-    "owner_url": "https://github.com/VirgilClyne",
-    "repo_description": "解锁完整的 Apple功能和集成服务",
-    "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2022-07-30T16:58:43Z",
-    "stargazers_count": 4357,
-    "forks_count": 223
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2022-07-30T18:40:08Z",
+    "stargazers_count": 5447,
+    "forks_count": 1057
   },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
@@ -107,17 +71,17 @@
     "stargazers_count": 66,
     "forks_count": 11
   },
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-07-30T18:40:08Z",
-    "stargazers_count": 5447,
-    "forks_count": 1057
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-07-30T11:15:41Z",
+    "stargazers_count": 796,
+    "forks_count": 240
   },
   "NobyDa-Script-master": {
     "user": "NobyDa",
@@ -131,6 +95,30 @@
     "stargazers_count": 5987,
     "forks_count": 3255
   },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2022-07-30T06:04:26Z",
+    "stargazers_count": 1041,
+    "forks_count": 77
+  },
+  "Coldvvater-Loon-master": {
+    "user": "Coldvvater",
+    "repo": "Loon",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
+    "owner_url": "https://github.com/Coldvvater",
+    "repo_description": null,
+    "repo_url": "https://github.com/Coldvvater/Loon",
+    "updated_at": "2022-07-19T01:29:14Z",
+    "stargazers_count": 3,
+    "forks_count": 0
+  },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
     "repo": "Rules",
@@ -142,6 +130,18 @@
     "updated_at": "2022-07-30T00:40:12Z",
     "stargazers_count": 624,
     "forks_count": 180
+  },
+  "DualSubs-DualSubs-main": {
+    "user": "DualSubs",
+    "repo": "DualSubs",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
+    "owner_url": "https://github.com/DualSubs",
+    "repo_description": "流媒体平台字幕增强及双语模块",
+    "repo_url": "https://github.com/DualSubs/DualSubs",
+    "updated_at": "2022-07-30T16:56:19Z",
+    "stargazers_count": 424,
+    "forks_count": 13
   },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
