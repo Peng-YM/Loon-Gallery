@@ -1,16 +1,4 @@
 {
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2022-08-01T00:33:34Z",
-    "stargazers_count": 972,
-    "forks_count": 159
-  },
   "chavyleung-scripts-master": {
     "user": "chavyleung",
     "repo": "scripts",
@@ -22,18 +10,6 @@
     "updated_at": "2022-08-01T02:06:30Z",
     "stargazers_count": 3720,
     "forks_count": 1123
-  },
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-08-01T03:19:25Z",
-    "stargazers_count": 5474,
-    "forks_count": 1065
   },
   "app2smile-rules-master": {
     "user": "app2smile",
@@ -47,6 +23,18 @@
     "stargazers_count": 1044,
     "forks_count": 77
   },
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2022-08-01T00:33:34Z",
+    "stargazers_count": 972,
+    "forks_count": 159
+  },
   "NobyDa-Script-master": {
     "user": "NobyDa",
     "repo": "Script",
@@ -55,21 +43,21 @@
     "owner_url": "https://github.com/NobyDa",
     "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
     "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-07-31T18:31:14Z",
-    "stargazers_count": 5992,
+    "updated_at": "2022-08-01T04:31:55Z",
+    "stargazers_count": 5993,
     "forks_count": 3258
   },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-07-30T11:15:41Z",
-    "stargazers_count": 796,
-    "forks_count": 240
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2022-08-01T05:22:16Z",
+    "stargazers_count": 5477,
+    "forks_count": 1065
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
@@ -95,18 +83,6 @@
     "stargazers_count": 68,
     "forks_count": 11
   },
-  "DualSubs-DualSubs-main": {
-    "user": "DualSubs",
-    "repo": "DualSubs",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
-    "owner_url": "https://github.com/DualSubs",
-    "repo_description": "流媒体平台字幕增强及双语模块",
-    "repo_url": "https://github.com/DualSubs/DualSubs",
-    "updated_at": "2022-07-30T16:56:19Z",
-    "stargazers_count": 424,
-    "forks_count": 13
-  },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
     "repo": "iRingo",
@@ -118,6 +94,18 @@
     "updated_at": "2022-08-01T02:05:15Z",
     "stargazers_count": 4370,
     "forks_count": 224
+  },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-08-01T04:30:33Z",
+    "stargazers_count": 797,
+    "forks_count": 240
   },
   "Coldvvater-Loon-master": {
     "user": "Coldvvater",
@@ -142,6 +130,18 @@
     "updated_at": "2022-08-01T00:43:50Z",
     "stargazers_count": 469,
     "forks_count": 61
+  },
+  "DualSubs-DualSubs-main": {
+    "user": "DualSubs",
+    "repo": "DualSubs",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
+    "owner_url": "https://github.com/DualSubs",
+    "repo_description": "流媒体平台字幕增强及双语模块",
+    "repo_url": "https://github.com/DualSubs/DualSubs",
+    "updated_at": "2022-07-30T16:56:19Z",
+    "stargazers_count": 424,
+    "forks_count": 13
   },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
