@@ -70,4 +70,10 @@
         "branch": "master",
         "paths": ["Plugin"]
     }
+    {
+    "user": "deezertidal",
+    "repo": "private,
+    "branch": "plugin",
+    "paths": ["/plugins"]
+}
 ]
