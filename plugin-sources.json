@@ -69,5 +69,11 @@
         "repo": "Loon",
         "branch": "master",
         "paths": ["Plugin"]
+    },
+        {
+        "user": "deezertidal",
+        "repo": "private",
+        "branch": "master",
+        "paths": ["plugallery"]
     }
 ]
