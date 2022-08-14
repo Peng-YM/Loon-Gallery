@@ -75,5 +75,9 @@
         "repo": "private",
         "branch": "master",
         "paths": ["plugallery"]
+    },{
+        "user": "I-am-R-E",
+        "repo": "Functional-Store-Hub",
+        "branch": "Master"
     }
 ]
