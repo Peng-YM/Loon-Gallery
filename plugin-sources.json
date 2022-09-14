@@ -22,9 +22,9 @@
     },
     {
         "user": "VirgilClyne",
-        "repo": "VirgilClyne",
+        "repo": "GetSomeFries",
         "branch": "main",
-        "paths": ["modules"]
+        "paths": ["plugin"]
     },
     {
         "user": "blackmatrix7",
