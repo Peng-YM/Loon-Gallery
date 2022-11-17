@@ -66,9 +66,9 @@
     },
     {
         "user": "Coldvvater",
-        "repo": "Loon",
+        "repo": "Mononoke",
         "branch": "master",
-        "paths": ["Plugin"]
+        "paths": ["Loon/Plugin"]
     },
         {
         "user": "deezertidal",
