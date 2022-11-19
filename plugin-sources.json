@@ -79,5 +79,10 @@
         "user": "I-am-R-E",
         "repo": "Functional-Store-Hub",
         "branch": "Master"
+    },{
+        "user": "chengkongyiban",
+        "repo": "Loon",
+        "branch": "main",
+        "paths": ["Loon-Gallery"]
     }
 ]
