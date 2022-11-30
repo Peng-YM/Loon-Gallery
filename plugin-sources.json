@@ -1,5 +1,10 @@
 [
     {
+        "user": "Semporia",
+        "repo": "TikTok-Unlock",
+        "branch": "master/Loon"
+    },
+    {
         "user": "chavyleung",
         "repo": "scripts",
         "branch": "master"
