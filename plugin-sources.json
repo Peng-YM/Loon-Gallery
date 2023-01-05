@@ -2,7 +2,8 @@
     {
         "user": "Semporia",
         "repo": "TikTok-Unlock",
-        "branch": "master/Loon"
+        "branch": "master",
+        "paths": ["Loon"]
     },
     {
         "user": "chavyleung",
