@@ -33,30 +33,6 @@
         "paths": ["plugin"]
     },
     {
-        "user": "VirgilClyne",
-        "repo": "Cloudflare",
-        "branch": "main",
-        "paths": ["plugin"]
-    },
-    {
-        "user": "DualSubs",
-        "repo": "DualSubs",
-        "branch": "main",
-        "paths": ["plugin"]
-    },
-    {
-        "user": "DualSubs",
-        "repo": "DualSubs-YouTube",
-        "branch": "main",
-        "paths": ["plugin"]
-    },
-    {
-        "user": "DualSubs",
-        "repo": "DualSubs-Netflix",
-        "branch": "main",
-        "paths": ["plugin"]
-    },
-    {
         "user": "blackmatrix7",
         "repo": "ios_rule_script",
         "branch": "master",
@@ -66,6 +42,12 @@
         "user": "Tartarus2014",
         "repo": "Loon-Script",
         "branch": "master"
+    },
+    {
+        "user": "DualSubs",
+        "repo": "DualSubs",
+        "branch": "main",
+        "paths": ["plugin"]
     },
     {
         "user": "NobyDa",
