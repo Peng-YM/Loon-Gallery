@@ -39,19 +39,19 @@
         "paths": ["plugin"]
     },
     {
-        "user": "VirgilClyne",
+        "user": "DualSubs",
         "repo": "DualSubs",
         "branch": "main",
         "paths": ["plugin"]
     },
     {
-        "user": "VirgilClyne",
+        "user": "DualSubs",
         "repo": "DualSubs-YouTube",
         "branch": "main",
         "paths": ["plugin"]
     },
     {
-        "user": "VirgilClyne",
+        "user": "DualSubs",
         "repo": "DualSubs-Netflix",
         "branch": "main",
         "paths": ["plugin"]
