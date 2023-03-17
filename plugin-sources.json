@@ -51,12 +51,6 @@
         "paths": ["plugin"]
     },
     {
-        "user": "DualSubs",
-        "repo": "DualSubs-Netflix",
-        "branch": "main",
-        "paths": ["plugin"]
-    },
-    {
         "user": "blackmatrix7",
         "repo": "ios_rule_script",
         "branch": "master",
