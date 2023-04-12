@@ -51,6 +51,18 @@
         "paths": ["plugin"]
     },
     {
+        "user": "BiliUniverse",
+        "repo": "Enhanced",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
+        "user": "BiliUniverse",
+        "repo": "Global",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
         "user": "blackmatrix7",
         "repo": "ios_rule_script",
         "branch": "master",
