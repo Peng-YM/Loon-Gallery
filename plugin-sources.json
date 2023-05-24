@@ -46,7 +46,7 @@
     },
     {
         "user": "DualSubs",
-        "repo": "DualSubs-YouTube",
+        "repo": "YouTube",
         "branch": "main",
         "paths": ["plugin"]
     },
@@ -59,6 +59,12 @@
     {
         "user": "BiliUniverse",
         "repo": "Global",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
+        "user": "BiliUniverse",
+        "repo": "ADBlock",
         "branch": "main",
         "paths": ["modules"]
     },
