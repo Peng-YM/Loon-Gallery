@@ -101,21 +101,17 @@
         "paths": ["Loon"]
     },
     {
-        "user": "Coldvvater",
-        "repo": "Mononoke",
-        "branch": "master",
-        "paths": ["Loon/Plugin"]
-    },
-        {
         "user": "deezertidal",
         "repo": "private",
         "branch": "master",
         "paths": ["plugallery"]
-    },{
+    },
+    {
         "user": "I-am-R-E",
         "repo": "Functional-Store-Hub",
         "branch": "Master"
-    },{
+    },
+    {
         "user": "chengkongyiban",
         "repo": "Loon",
         "branch": "main",
