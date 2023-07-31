@@ -48,7 +48,7 @@
         "user": "DualSubs",
         "repo": "YouTube",
         "branch": "main",
-        "paths": ["plugin"]
+        "paths": ["modules"]
     },
     {
         "user": "BiliUniverse",
