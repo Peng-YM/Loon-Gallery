@@ -116,5 +116,10 @@
         "repo": "Loon",
         "branch": "main",
         "paths": ["Loon-Gallery"]
+    },
+    {
+        "user": "Guding88",
+        "repo": "Script",
+        "branch": "main",
     }
 ]
