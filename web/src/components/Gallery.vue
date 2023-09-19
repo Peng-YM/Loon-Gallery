@@ -1,11 +1,10 @@
 <template>
   <v-container fluid>
+    <v-text-field label="搜索" v-model="search"></v-text-field>
     <v-expansion-panels>
-      <v-expansion-panel
-          v-for="repoId in Object.keys(repos)
-            .sort((a, b) => repos[a].user.localeCompare(repos[b].user))
-            .filter(repoId => plugins[repoId].length > 0)"
-          :key="repoId">
+      <v-expansion-panel v-for="repoId in Object.keys(repos)
+        .sort((a, b) => repos[a].user.localeCompare(repos[b].user))
+        .filter(repoId => filteredPlugins[repoId].length > 0)" :key="repoId">
         <v-expansion-panel-header>
           <v-row align="center" justify="start" no-gutters>
             <v-col>
@@ -34,10 +33,7 @@
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-list dense nav class="ma-n4">
-            <v-list-item three-line
-                         v-for="(plugin, idx) in plugins[repoId]"
-                         :key="idx"
-                         @click="open(plugin.url)">
+            <v-list-item v-for="(plugin, idx) in filteredPlugins[repoId]" :key="idx" @click="open(plugin.url)">
               <v-list-item-avatar size="35px" rounded>
                 <v-icon v-if="plugin.icon === undefined">fa-question</v-icon>
                 <v-img :src="plugin.icon" v-else/>
@@ -102,9 +98,22 @@ export default {
 
   data: function () {
     return {
+      search: '',
       repos: {},
       plugins: {}
     }
+  },
+
+  computed: {
+    filteredPlugins() {
+      let result = {};
+      for (let repoId in this.plugins) {
+        result[repoId] = this.plugins[repoId].filter(plugin =>
+          plugin.name.toLowerCase().includes(this.search.toLowerCase())
+        );
+      }
+      return result;
+    },
   },
   methods: {
     install(url) {
