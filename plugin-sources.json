@@ -40,12 +40,6 @@
     },
     {
         "user": "DualSubs",
-        "repo": "DualSubs",
-        "branch": "main",
-        "paths": ["plugin"]
-    },
-    {
-        "user": "DualSubs",
         "repo": "YouTube",
         "branch": "main",
         "paths": ["modules"]
