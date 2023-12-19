@@ -78,8 +78,8 @@ import axios from "axios";
 export default {
   name: "GalleryComponent",
   created() {
-    const PLUGINS_DATA_URL = "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/data/plugins.json";
-    const SOURCES_DATA_URL = "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/data/repos.json";
+    const PLUGINS_DATA_URL = "https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/data/plugins.json";
+    const SOURCES_DATA_URL = "https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/data/repos.json";
 
     axios.get(PLUGINS_DATA_URL).then(resp => {
       const {data} = resp;
