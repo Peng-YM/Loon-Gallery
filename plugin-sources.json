@@ -1,4 +1,9 @@
 [
+     {
+        "user": "androidcn",
+        "repo": "userscripts",
+        "branch": "main"
+    },
     {
         "user": "Semporia",
         "repo": "TikTok-Unlock",
