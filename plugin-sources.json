@@ -115,5 +115,10 @@
         "user": "Guding88",
         "repo": "Script",
         "branch": "main"
+    },
+    {
+    "user": "androidcn",
+    "repo": "userscripts",
+    "branch": "main"
     }
 ]
